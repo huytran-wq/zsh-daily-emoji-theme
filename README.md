@@ -1,6 +1,6 @@
 # zsh-daily-emoji-theme
 
-A ZSH custom theme that shows random emojis at the beginning of each command depending on the day of the week. I'm not sure who wrote the initial version of this theme. I modified it so that the prompt shows the information that I want.
+A ZSH custom theme that shows random emojis at the beginning of each command depending on the day of the week. I'm not sure who wrote the initial version of this theme. I modified it so that the prompt shows the system information that I want.
 ![image](https://user-images.githubusercontent.com/92749263/165156981-4936be7a-b887-42fb-a065-81c93ae8ffbd.png)
 
 
